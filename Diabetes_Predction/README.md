@@ -13,9 +13,7 @@ document classification (include spam filtering), multinomial and Bernoulli dist
 popular.
 ## KNN: ##
 K nearest neighbors is a simple algorithm that stores all available cases and classifies new
-cases based on a similarity measure (e.g., distance functions). KNN has been used in statistical
-estimation and pattern recognition already in the beginning of 1970's as a non-parametric
-technique. Algorithm.
+cases based on a similarity measure (e.g., distance functions).
 ## SVM: ##
 A Support Vector Machine (SVM) is a discriminative classifier formally defined by a
 separating hyperplane. In other words, given labeled training data (supervised learning), the
